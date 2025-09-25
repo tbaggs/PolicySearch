@@ -1,0 +1,8 @@
+azure-search-documents==11.6.0b7
+openai
+azure-identity
+azure-core
+python-dotenv
+pandas
+requests
+azure-storage-blob

@@ -1,0 +1,13 @@
+In the PolicyDocTitles.csv create a csv list of 100 titles of policy documents along with fictitious urls for the location of the document start with https://policies.mgb.com/{title}.
+
+In addition create 2-3 similar titles for each primary title.  For example:
+
+Primary Title: Covid-19 Time Off Policy
+Similar Title 1: What to do if you have Covid-19
+Similar Title 2: Time-Off for Covid-19 Illness
+
+Output format is CSV:
+
+Title,URL,Primary,Secondary
+Covid-19 Time Off Policy,https://policies.samples.com/Covid-19 Time Off Policy,True,False
+What to do if you have Covid-19,https://policies.samples.com/What to do if you have Covid-19,False,True
